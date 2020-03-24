@@ -35,7 +35,7 @@ Email support is available to Amazon Web Services Marketplace Customers at [clou
 
 ## License
 
-email-aliases is distributed under [Apache 2.0 License](license.txt).
+The script is published under [BSD 3-Clause License](license.txt).
 
 ## Copyright
 
